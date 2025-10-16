@@ -1,0 +1,11 @@
+ 
+* {
+    color: green;
+}
+
+a:hover{
+    color: brown;
+    transition: 0.3ms;
+
+}
+
